@@ -2,7 +2,7 @@
 Repository for the exam Programming for Economists, September 21ss, 2018  
 ___  
 # Final Assignment  
-* [Python Assignmen, September 21, 2018]()
+* [Python Assignment, September 21, 2018]()
 * [R Assignment September 21, 2018]()  
 
 ___  
