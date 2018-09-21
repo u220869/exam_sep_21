@@ -14,4 +14,4 @@ ___
 
 ___  
 
-![](http://gif-finder.com/wp-content/uploads/2015/12/Bored-cat.gif "Just for fun .. ;)")
+![](http://gif-finder.com/wp-content/uploads/2015/12/Bored-cat.gif "Just for fun ... ;)")
